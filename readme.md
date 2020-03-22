@@ -3,7 +3,7 @@
 
 Movies Tonight shows what movies you can watch inside Australia
 
-It is actually a one day quest when I was interviewed with one famous tech company inside Australia during Sep, 2017. I was asked not to make it open source but I think it's fine to do so in 2020.
+It is actually a one day quest when I was interviewed with one famous tech company inside Australia during Aug, 2017. I was asked not to make it open source but I think it's fine to do so in 2020.
 
 ## How to Run
 
